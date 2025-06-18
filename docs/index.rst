@@ -11,7 +11,7 @@ Learn how to access your Acorn TV account login, fix common issues, and manage y
    :alt: Acorn TV Account Login
    :width: 400px
    :align: center
-   :target: https://acorntv.support/
+   :target: https://aclogportal.com/acorntv-login
 
 
 People who like British TV shows, mystery dramas, and international series love Acorn TV.  It has a unique variety of material that you won't find on many other platforms, from riveting criminal thrillers to homey comedy set in the country.  You need to know how to use your Acorn TV account login safely and correctly to enjoy all of this entertainment.
